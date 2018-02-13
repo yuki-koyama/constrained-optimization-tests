@@ -1,0 +1,14 @@
+*.pro.user
+*.pro.user.*
+*build-*
+*.qmake.stash
+*info.plist
+*moc_*
+*ui_*
+*Debug
+*Release
+*.xcodeproj
+*.mak
+project.pbxproj
+project.xcworkspace
+xcshareddata
